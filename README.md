@@ -1,16 +1,24 @@
-#Pardha Saradhi Chodey
+# Hi there, I'm Pardha Saradhi Chodey 👋
 
-<!--
-**pardhasaradhichodey/pardhasaradhichodey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Development Engineer. I love python.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+- 💻 Languages: Python, JavaScript, Java
+- 🌐 Frameworks: React, Node.js, Django
+- 🛠 Tools: Git, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **[Project Name]**: [Brief Description] ([Repository Link])
+- **[Project Name]**: [Brief Description] ([Repository Link])
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## Let's Connect
+- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
+- Twitter: [@YourTwitterHandle](Your Twitter URL)
+- Email: [pardhasaradhichodey7@gmail.com](mailto:pardhasaradhichodey7@gmail.com)
+
+*"Your Favorite Quote"*
+
