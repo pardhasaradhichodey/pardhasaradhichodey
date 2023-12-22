@@ -13,7 +13,7 @@ I'm a Software Development Engineer. I love python.
 - **[Project Name]**: [Brief Description] ([Repository Link])
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true)
 
 ## Let's Connect
 - LinkedIn: [Your LinkedIn](Your LinkedIn URL)
