@@ -14,7 +14,7 @@ I'm a Software Development Engineer. I love python.
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey&" alt="sivateja60"/></p>
 ## Let's Connect
 - LinkedIn: [Your LinkedIn](Your LinkedIn URL)
 - Twitter: [@YourTwitterHandle](Your Twitter URL)
