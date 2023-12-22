@@ -3,6 +3,7 @@
 ## About Me
 I'm a Software Development Engineer. I love python.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhasaradhichodey&label=Profile%20views&color=0e75b6&style=flat" alt="sivateja60" /> </p>
+
 ## Skills and Technologies
 - 💻 Languages: Python, JavaScript, Java
 - 🌐 Frameworks: React, Node.js, Django
