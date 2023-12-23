@@ -18,9 +18,8 @@ I'm a Software Development Engineer. I love python.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey&" alt="pardhasaradhichodey"/></p>
 
 ## Let's Connect
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Twitter: [@YourTwitterHandle](Your Twitter URL)
+- LinkedIn: [Pardha Saradhi Chodey](https://www.linkedin.com/in/pardhasaradhichodey/)
+- LeetCode: [PardhuChodey](https://leetcode.com/PardhuChodey/)
 - Email: [pardhasaradhichodey7@gmail.com](mailto:pardhasaradhichodey7@gmail.com)
 
-*"Your Favorite Quote"*
 
