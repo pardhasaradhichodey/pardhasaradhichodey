@@ -11,7 +11,7 @@ I'm a Software Development Engineer. I love python.
 
 ## Featured Projects
 - **[Civicx]**: [Project to showcase my cloud computing Skills](https://github.com/pardhasaradhichodey/Cloud_Computing_Project)
-- **[Project Name]**: [Brief Description] ([Repository Link])
+- **[Monster Rolodex]**: [Project to showcase my react skills](https://github.com/pardhasaradhichodey/monsters-rolodex)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true)
