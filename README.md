@@ -10,7 +10,7 @@ I'm a Software Development Engineer. I love python.
 - 🛠 Tools: Git, AWS
 
 ## Featured Projects
-- **[Project Name]**: [Brief Description] ([Repository Link])
+- **[Civicx]**: [Project to showcase my cloud computing Skills](https://github.com/pardhasaradhichodey/Cloud_Computing_Project)
 - **[Project Name]**: [Brief Description] ([Repository Link])
 
 ## GitHub Stats
