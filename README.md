@@ -14,7 +14,7 @@ I'm a Software Development Engineer. I love python.
 - **Monster Rolodex**: [Project to showcase my react skills](https://github.com/pardhasaradhichodey/monsters-rolodex)
 
 ## GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true" alt="Your GitHub Stats" width="50%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey" alt="GitHub Streak Stats"  width="50%"/>
 </p>
