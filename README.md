@@ -17,12 +17,12 @@ I'm a Software Development Engineer. I love python.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey" alt="GitHub Streak Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ## Let's Connect
 - LinkedIn: [Pardha Saradhi Chodey](https://www.linkedin.com/in/pardhasaradhichodey/)
 - LeetCode: [PardhuChodey](https://leetcode.com/PardhuChodey/)
 - Email: [pardhasaradhichodey7@gmail.com](mailto:pardhasaradhichodey7@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey)
+
