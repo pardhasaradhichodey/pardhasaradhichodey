@@ -22,4 +22,4 @@ I'm a Software Development Engineer. I love python.
 - LeetCode: [PardhuChodey](https://leetcode.com/PardhuChodey/)
 - Email: [pardhasaradhichodey7@gmail.com](mailto:pardhasaradhichodey7@gmail.com)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey)
