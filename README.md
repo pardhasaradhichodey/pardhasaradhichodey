@@ -26,3 +26,4 @@ I'm a Software Development Engineer. I love python.
 - Email: [pardhasaradhichodey7@gmail.com](mailto:pardhasaradhichodey7@gmail.com)
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/PardhuChodey)
