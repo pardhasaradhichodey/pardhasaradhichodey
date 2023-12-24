@@ -14,12 +14,12 @@ I'm a Software Development Engineer. I love python.
 - **Monster Rolodex**: [Project to showcase my react skills](https://github.com/pardhasaradhichodey/monsters-rolodex)
 
 ## GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey" alt="GitHub Streak Stats" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PardhuChodey?theme=unicorn&font=Shippori%20Antique&ext=heatmap)
 
