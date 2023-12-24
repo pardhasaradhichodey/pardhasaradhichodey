@@ -15,8 +15,8 @@ I'm a Software Development Engineer. I love python.
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true" alt="Your GitHub Stats" width="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey" alt="GitHub Streak Stats"  width="200px"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey\&layout=pie)
