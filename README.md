@@ -19,6 +19,8 @@ I'm a Software Development Engineer. I love python.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey" alt="GitHub Streak Stats" height="300px" width="40%"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey&layout=pie" alt="Most Used Languages" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey&layout=pie)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PardhuChodey?theme=unicorn&font=Shippori%20Antique&ext=heatmap)
