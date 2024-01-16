@@ -14,11 +14,11 @@ I'm a Software Development Engineer. I love python.
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true&cache_seconds=0" alt="Your GitHub Stats" height="300px" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey&cache_seconds=0" alt="GitHub Streak Stats" height="300px" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true&cache_seconds=10" alt="Your GitHub Stats" height="300px" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey&cache_seconds=10" alt="GitHub Streak Stats" height="300px" width="40%"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey&layout=pie&cache_seconds=0" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey&layout=pie&cache_seconds=10" alt="Most Used Languages" />
 
 
 
