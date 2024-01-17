@@ -2,7 +2,9 @@
 
 ## About Me
 I'm a Software Development Engineer. I love python.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhasaradhichodey&label=Profile%20views&color=0e75b6&style=flat" alt="pardhasaradhichodey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhasaradhichodey&label=Profile%20views&color=0e75b6&style=flat" alt="pardhasaradhichodey" /> 
+<img src="https://wakatime.com/badge/user/018c9971-a274-4b34-a80d-6d4645aac4e3.svg" />
+</p>
 
 ## Skills and Technologies
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +25,8 @@ I'm a Software Development Engineer. I love python.
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PardhuChodey?theme=unicorn&font=Shippori%20Antique&ext=heatmap)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pardhu_chodey)
 
 ## Let's Connect
 - LinkedIn: [Pardha Saradhi Chodey](https://www.linkedin.com/in/pardhasaradhichodey/)
