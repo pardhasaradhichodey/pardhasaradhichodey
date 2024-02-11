@@ -14,12 +14,25 @@ I'm a Software Development Engineer. I love python.
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="react.png" alt="react" width="40" height="40"/> </a>&nbsp;
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="Bootstrap.png" alt="BootStrap" width="40" height="40"/> </a>&nbsp;
-<a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"> <img src="MaterialUi.png" alt="MaterialUi" width="60" height="40"/> </a>
+<a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"> <img src="MaterialUi.png" alt="MaterialUi" width="80" height="40"/> </a>
 </p>
 <h3>Backend:</h3>
+<p align="left">
+<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="python.png" alt="python" width="40" height="40"/> </a>&nbsp;
+<a href="https://docs.djangoproject.com/en/5.0/" target="_blank" rel="noreferrer"> <img src="django.png" alt="django" width="40" height="40"/> </a>&nbsp;
+<a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"> <img src="pandas.png" alt="pandas" width="60" height="40"/> </a>&nbsp;
+<a href="https://matplotlib.org/stable/users/index" target="_blank" rel="noreferrer"> <img src="mathplotlib.png" alt="Mathplotlib" width="80" height="40"/> </a>&nbsp;
+<a href="https://numpy.org/doc/stable/" target="_blank" rel="noreferrer"> <img src="numpy.png" alt="numpy" width="40" height="40"/> </a>&nbsp;
+<a href="https://scikit-learn.org/stable/user_guide.html" target="_blank" rel="noreferrer"> <img src="scikitlearn.png" alt="scikitlearn" width="40" height="40"/> </a>&nbsp;
+<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="nodejs.png" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+<a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> <img src="expressjs.png" alt="expressjs" width="80" height="40"/> </a>&nbsp;
+<a href="https://dev.java/learn/getting-started/" target="_blank" rel="noreferrer"> <img src="java.png" alt="java" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="php.png" alt="php" width="60" height="40"/> </a>&nbsp;
+</p>
+<h3>Databases:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="background: white;"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>--> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>--> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</p>
+
 
 ## Featured Projects
 - **Civicx**: [Project to showcase my cloud computing Skills](https://github.com/pardhasaradhichodey/Cloud_Computing_Project)
