@@ -31,8 +31,16 @@ I'm a Software Development Engineer. I love python.
 </p>
 <h3>Databases:</h3>
 <p align="left"> 
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="mysql.png" alt="mysql" width="40" height="40"/> </a>&nbsp;
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="dynamodb.png" alt="DynamoDB" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer"> <img src="sqlite.png" alt="sqlite" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="mongodb.png" alt="mysql" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="mssql.png" alt="mssql" width="40" height="40"/> </a>&nbsp;
 </p>
+<h3>Other Important Tools:</h3>
+<p align="left"> 
 
+</p>
 
 ## Featured Projects
 - **Civicx**: [Project to showcase my cloud computing Skills](https://github.com/pardhasaradhichodey/Cloud_Computing_Project)
