@@ -39,7 +39,11 @@ I'm a Software Development Engineer. I love python. Well Versed with Mern Stack 
 </p>
 <h3>Other Important Tools:</h3>
 <p align="left"> 
-
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="aws.png" alt="aws" width="40" height="40"/> </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="git.png" alt="git" width="40" height="40"/> </a>&nbsp;
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="docker.png" alt="docker" width="40" height="40"/> </a>&nbsp;
+  <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noreferrer"> <img src="jest.png" alt="jest" width="40" height="40"/> </a>&nbsp;
+  <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="asana.png" alt="asana" width="40" height="40"/> </a>&nbsp;
 </p>
 
 ## Featured Projects
