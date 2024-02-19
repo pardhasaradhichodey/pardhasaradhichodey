@@ -1,7 +1,7 @@
 # Hi there, I'm Pardha Saradhi Chodey 👋
 
 ## About Me
-I'm a Software Development Engineer. I love python. Well Versed with Mern Stack and Django. worked on various Aws services
+I'm a Software Development Engineer. I love python. Well Versed with Mern Stack and Django. worked on various Aws services like EC2, Amplify, AWS API Gateway, Lambda, etc
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhasaradhichodey&label=Profile%20views&color=0e75b6&style=flat" alt="pardhasaradhichodey" /> 
 <img src="https://wakatime.com/badge/user/018c9971-a274-4b34-a80d-6d4645aac4e3.svg" />
 </p>
