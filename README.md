@@ -55,15 +55,10 @@ I'm a Software Development Engineer. I love python. Well Versed with Mern Stack 
   <img src="https://github-readme-stats.vercel.app/api?username=pardhasaradhichodey&show_icons=true&cache_seconds=10" alt="Your GitHub Stats" height="300px" width="40%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pardhasaradhichodey&cache_seconds=10" alt="GitHub Streak Stats" height="300px" width="40%"/>
 </p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardhasaradhichodey&layout=pie&cache_seconds=10" alt="Most Used Languages" />
 
-
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PardhuChodey?theme=unicorn&font=Shippori%20Antique&ext=heatmap)
-
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pardhu_chodey)
-
 ## Let's Connect
 - LinkedIn: [Pardha Saradhi Chodey](https://www.linkedin.com/in/pardhasaradhichodey/)
 - LeetCode: [PardhuChodey](https://leetcode.com/PardhuChodey/)
