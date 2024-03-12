@@ -1,4 +1,4 @@
-# Hi there, I'm Pardha Saradhi Chodey 👋
+# Hi there, I'm Pardha Saradhi Chodey
 Welcome to my world! 
 ## About Me
 I'm a Software Development Engineer. I love python. Well Versed with Mern Stack and Django. worked on various Aws services like EC2, S3, Amplify, AWS API Gateway, Lambda, etc.  
