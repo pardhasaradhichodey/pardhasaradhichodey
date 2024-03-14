@@ -5,7 +5,6 @@ I'm a Software Development Engineer. I love python. Well Versed with Mern Stack 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardhasaradhichodey&label=Profile%20views&color=0e75b6&style=flat" alt="pardhasaradhichodey" /> 
 Coding Hours: <img src="https://wakatime.com/badge/user/018c9971-a274-4b34-a80d-6d4645aac4e3.svg" /> 
 </p>
-
 ## Skills and Technologies
 <h3 align="left">FrontEnd:</h3>
 <p align="left"> 
