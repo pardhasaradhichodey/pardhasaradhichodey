@@ -46,6 +46,7 @@ Coding Hours: <img src="https://wakatime.com/badge/user/018c9971-a274-4b34-a80d-
   <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noreferrer"> <img src="jest.png" alt="jest" width="40" height="40"/> </a>&nbsp;
   <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="asana.png" alt="asana" width="40" height="40"/> </a>&nbsp;
 </p>
+
 ## Featured Projects
 - **Civicx**: [Project to showcase my cloud computing Skills](https://github.com/pardhasaradhichodey/Cloud_Computing_Project)
 - **Monster Rolodex**: [Project to showcase my react skills](https://github.com/pardhasaradhichodey/monsters-rolodex)
